@@ -1,0 +1,14 @@
+### Admin ###
+EMAIL : admin@mail.com
+PASS  : 12345678
+
+
+### User ###
+   Email                      Password
+
+1. sintakaridina@gmail.com    sintakaridina
+2. ifanmuhammad@gmail         ifanmuhammad
+3. revinodatya@gmail.com      revinodatya
+4. yuliasalsah@gmail.com      yuliasalsah
+5. ahmaddean@gmail.com        ahmaddean
+6. aliffaisal@gmail.com       aliffaisal
